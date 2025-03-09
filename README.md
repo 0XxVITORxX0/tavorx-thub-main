@@ -323,7 +323,7 @@ local v15 = v14:CreateWindow({
 });
 local v16 = {
     Home = v15:AddTab({
-        Title = "Thông Tin|information"
+        Title = "information"
     }),
     Main = v15:AddTab({
         Title = "farm"
