@@ -1,3 +1,6 @@
+,-- discord.gg/25ms
+
+
 shared.LoaderTitle = "discord https://discord.gg/rJ45dYzAjX";
 shared.LoaderKeyFrames = {
     [1] = {
@@ -2630,7 +2633,7 @@ v23.BorderSizePixel = 0;
 v23.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
 v23.Size = UDim2.new(0, 50, 0, 50);
 v23.Draggable = true;
-v23.Image = "http://www.roblox.com/asset/?id=111618654196795";
+v23.Image = "http://www.roblox.com/asset/?id=138233670183241";
 v24.Parent = v23;
 v24.CornerRadius = UDim.new(0, 12);
 v25.Parent = v23;
