@@ -1,3 +1,6 @@
+,-- discord.gg/25ms
+
+
 shared.LoaderTitle = "discord https://discord.gg/rJ45dYzAjX";
 shared.LoaderKeyFrames = {
     [1] = {
@@ -93,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://111618654196795",
+    Image = "rbxassetid://138233670183241",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
