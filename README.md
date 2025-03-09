@@ -1,6 +1,3 @@
-,-- discord.gg/25ms
-
-
 shared.LoaderTitle = "discord https://discord.gg/rJ45dYzAjX";
 shared.LoaderKeyFrames = {
     [1] = {
